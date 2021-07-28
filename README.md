@@ -21,7 +21,7 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
-**Bold** and _Italic_ and `Code` text
+**bold** **he mrityu teyar agar tu aane ko prasan mukh aa, tera dwar khula h prasan mukh aa** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
