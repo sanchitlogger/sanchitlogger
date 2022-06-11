@@ -1,3 +1,0 @@
-writing on github: https://docs.github.com/en/get-started/writing-on-github
-making flow chart in readme file: https://mermaid-js.github.io/mermaid/#/
-
