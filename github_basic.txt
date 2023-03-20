@@ -1,3 +1,0 @@
-writing on github: https://docs.github.com/en/get-started/writing-on-github
-making flow chart in readme file: https://mermaid-js.github.io/mermaid/#/
-### Webhooks provide a way for notifications to be delivered to an external web server whenever certain actions occur on a repository or organization.
