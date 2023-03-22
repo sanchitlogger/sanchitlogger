@@ -1,0 +1,4 @@
+Django==3.2.18
+cryptography==38.0.4
+requests==2.28.1
+
