@@ -1,0 +1,29 @@
+
+nav {
+    line-style-type: none;
+    padding: 0;
+    margin: 0;
+    background-color: black;
+    overflow: hidden;
+    border: solid black;
+    width:100%;
+    position:relative;
+}
+nav ul li {
+    display: inline;
+    cursor: pointer;
+    padding:0px 2% 0px 2%
+}
+
+nav ul li a{
+       color:white;
+       font-family:Arial;
+       font-size:16px;
+       text-align:center;
+       padding:14px 16px;
+       text-decoration:none;
+   }
+nav li a:hover {
+    background-color: white;
+    color: black
+}
