@@ -1,0 +1,47 @@
+
+body {
+    margin: 0;
+    background-image: url(../assets/pexels-junghua-liu-3063362.jpg)     ;
+}
+nav {
+    line-style-type: none;
+    padding: 0;
+    margin: 0;
+    background-color: black;
+    overflow: hidden;
+    border: solid black;
+    width:100%;
+    position:relative;
+}
+nav ul li {
+    display: inline;
+    cursor: pointer;
+    padding:0px 0% 0px 1%
+}
+
+nav ul li a{
+       color:white;
+       font-family:Arial;
+       font-size:16px;
+       text-align:center;
+       padding:10px 10px;
+       text-decoration:none;
+   }
+nav li a:hover {
+    background-color: white;
+    color: black
+}
+header div {
+    margin: 0;
+    text-align: center;
+    font-family: Times New Roman;
+    font-size: 16px;
+    font-style:normal;
+    font-style:normal;
+
+}
+table,tr,td{
+    border:2px solid;
+    border-collapse:collapse;
+
+}
