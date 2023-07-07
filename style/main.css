@@ -1,7 +1,8 @@
 
 body {
     margin: 0;
-    background-image: url(../assets/pexels-junghua-liu-3063362.jpg)     ;
+    /**background-image:  url(../assets/pexels-junghua-liu-3063362.jpg)     ;**/
+    background-color: antiquewhite;
 }
 nav {
     line-style-type: none;
@@ -12,6 +13,15 @@ nav {
     border: solid black;
     width:100%;
     position:relative;
+}
+nav ul {
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 0;
 }
 nav ul li {
     display: inline;
@@ -39,6 +49,9 @@ header div {
     font-style:normal;
     font-style:normal;
 
+}
+main {
+    margin: 0% 0.5% 0% 0.5%;
 }
 table,tr,td{
     border:2px solid;
